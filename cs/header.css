@@ -1,0 +1,51 @@
+
+.a
+{
+font-weight: 600;
+font-size: 15px;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration: none !important;
+color:white;
+margin-top: 20px;
+}
+.a:hover{
+  color: white;
+}
+.nav-link{
+  margin-left:20px;
+}
+.nav-link1:hover::after
+{
+  content: "Duyurular";
+  margin-left:20px;
+}
+.nav-link2:hover::after
+{
+  content: "Üyelik İstekleri";
+  margin-left:20px;
+}
+.nav-link3:hover::after
+{
+  content: "Kullanıcılar";
+  margin-left:20px;
+}
+.nav-link4:hover::after
+{
+  content: "Masalar";
+  margin-left:20px;
+}
+.nav-link5:hover::after
+{
+  content: "Menü";
+  margin-left:20px;
+}
+.nav-link6:hover::after
+{
+  content: "Hesabım";
+  margin-left:20px;
+}
+.nav-link7:hover::after
+{
+  content: "Şifre Değiştir";
+  margin-left:20px;
+}

@@ -1,0 +1,18 @@
+.center{
+    align-items: center;
+    text-align: center;
+}
+.h{
+    margin-top: 200px;
+}
+.abs{
+    margin-top: 250px;
+}
+.c{
+    color: green;
+    font-weight: 700;
+    font-size:16px;
+}
+.e{
+        text-align: right;
+}
